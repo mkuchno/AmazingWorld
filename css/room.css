@@ -1,0 +1,81 @@
+.navbar-brand {
+
+	cursor: pointer;
+	font-weight: bold;
+	font-size: 30px;
+	margin-right: 50px;
+}
+
+.nav-item {
+
+	cursor: pointer;
+	font-size: 20px;
+	margin-right: 15px;
+	text-align: center;
+}
+
+#page1 {
+
+	color: #87CEEB;
+}
+
+footer {
+
+	position: fixed;
+	width: 100%;
+	height: 40px;
+	color: white;
+	text-align: center;
+	bottom: 0;
+}
+
+.fo-link {
+
+	color: #87CEEB;
+	margin-right: 30px;
+}
+
+.fo-link:hover {
+
+	color: #191970;
+	text-decoration: none;
+}
+
+.fab {
+
+	margin-top: 10px;
+}
+
+#links {
+
+	margin-left: auto;
+	margin-right: 10px;
+}
+
+#cal-room {
+
+	margin-top: 100px;
+    margin-bottom: 20px;
+}
+
+h2 {
+
+	text-align: center;
+	margin-bottom: 40px;
+}
+
+label {
+
+	font-size: 20px;
+}
+
+#contact-btn {
+
+	float: right;
+	font-size: 20px;
+}
+
+#len, #wid, #hei {
+
+	font-weight: bold;
+}

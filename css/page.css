@@ -1,0 +1,141 @@
+.navbar-brand {
+
+	cursor: pointer;
+	font-weight: bold;
+	font-size: 30px;
+	margin-right: 50px;
+}
+
+.nav-item {
+
+	cursor: pointer;
+	font-size: 20px;
+	margin-right: 15px;
+	text-align: center;
+}
+
+.element {
+
+	margin-top: 80px;
+	margin-bottom: 40px;
+}
+
+.carousel{
+
+	width: 500px;
+	height: 500px;
+	margin: auto;
+	margin-bottom: 8px;
+}
+
+img {
+
+    height: 500px;
+}
+
+p {
+
+	text-align: justify;
+}
+
+ul.nav-pills {
+
+    top: 80px;
+    position: fixed;
+}
+
+.hovered {
+
+	color: black;
+}
+
+#section1, #section2, #section3 {
+
+    padding-top: 80px;
+    margin-top: -80px;
+    margin-bottom: 20px;
+    display: inline-block;
+    text-align: justify;
+}
+
+#dark-theme{
+	
+	margin-right: 10px;
+}
+
+footer {
+
+	position: fixed;
+	width: 100%;
+	height: 40px;
+	color: white;
+	text-align: center;
+	bottom: 0;
+}
+
+.fo-link {
+
+	color: #87CEEB;
+	margin-right: 30px;
+}
+
+.fo-link:hover {
+
+	color: #191970;
+	text-decoration: none;
+}
+
+.fab {
+
+	margin-top: 10px;
+}
+
+.img-thumbnail {
+
+	width: 50%;
+	height: 50%;
+	margin-top: 5px;
+}
+
+.more-btn {
+
+  	margin-left: 10px;
+}
+
+.fa-money-bill-alt {
+
+	font-size: 35px;
+}
+
+#donate-us {
+
+	margin-top: 95px;
+	margin-bottom: 25px;
+	text-align: center;
+}
+
+#contact {
+
+	margin-bottom: 25px;
+}
+
+#contact-btn {
+
+	float: right;
+	width: 35%;
+}
+
+textarea {
+
+	height: 100%;
+}
+
+input[type=checkbox] {
+
+    transform: scale(1.25);
+}
+
+#links {
+
+	margin-left: auto;
+}
