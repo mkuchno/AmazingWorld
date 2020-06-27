@@ -2,7 +2,7 @@
 A simple website of an abstract organization supporting monuments in the world.
 
 ### Description
-This is a website with dynamic content change supported by JQuery. In addition, it has simple functionalities for calculating the total surface area and volume of the cone, as well as for calculating the number of heaters needed to heat room based on his volume. The last functionality is supported by ajax communication with a php.
+This is a website with dynamic content change supported by JQuery. In addition, it has simple functionalities for calculating the total surface area and volume of the cone, as well as for calculating the number of heaters needed to heat room based on his volume. The last functionality is supported by AJAX communication with a PHP.
 
 ### Additional Information
 The site is my own idea, functionalities are the requirements of the project in college.
